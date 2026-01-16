@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Keshav Kumar 👋
 
-<!--
-**keshav-kumar824/keshav-kumar824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+A beginner developer who enjoys coding and is committed to getting better at it. Learning new things and building projects along the way.I am a guy who loves coding and wants to grow more and more in this field.
 
-Here are some ideas to get you started:
+I'm a beginner developer who's excited about learning to code and building cool stuff. Currently figuring things out one line at a time!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- C language , Python , Web-devlopment .
+- Git & GitHub
+- Problem-solving through coding
+
+## 🔧 Technologies & Tools
+- Just getting started!
+- Learning the basics
+
+## 📫 How to Reach Me
+- GitHub: [@keshav-kumar824](https://github.com/keshav-kumar824)
+  
+
+## 💭 Fun Fact
+-I Know Graphic designing , creating logos , bussines card and everything that comes under graphic designing
+
+---
+
+*"The best way to predict the future is to create it."*
