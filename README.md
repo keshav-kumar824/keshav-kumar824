@@ -30,13 +30,6 @@ I also have experience in **graphic designing**, which allows me to make my proj
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-kumar824&layout=compact&hide_border=false&bg_color=FFF8E7&text_color=3E3E3E&title_color=A67C52)
 
 ---
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keshav-kumar824&theme=default&background=FFF8E7&fire=E0A96D&currStreakLabel=3E3E3E&sideNums=3E3E3E)
-
----
-
 ## 🎯 Goals
 - Learn more advanced **Python** and **Flask** concepts.  
 - Build full-stack web applications.  
