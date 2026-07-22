@@ -1,46 +1,106 @@
-# 💫 About Me
-Hi! I'm **Keshav Kumar**, a beginner developer passionate about coding and learning new technologies. I enjoy building projects, experimenting with new ideas, and growing every day as a programmer.  
+<div align="center">
 
-I also have experience in **graphic designing**, which allows me to make my projects visually appealing.  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=200&section=header&text=Keshav%20Kumar&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20C%2C%20Python%20%26%20Java%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Building+with+Python+%2B+Flask;Exploring+Java+OOP+Concepts;Growing+one+commit+at+a+time;Open+to+Work+Opportunities" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kashav) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kashav_lund54) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-kumar-1671093a3/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshavlund62@gmail.com)
+<br/>
 
----
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-14b8a6?style=for-the-badge&logo=briefcase&logoColor=white)
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+<img src="https://komarev.com/ghpvc/?username=keshav-kumar824&label=Profile%20Views&color=14b8a6&style=flat" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/keshav-kumar824?label=Followers&style=flat&color=14b8a6" alt="Followers"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 🧑‍💻 Who I Am
 
-![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshav-kumar824&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&bg_color=FFF8E7&text_color=3E3E3E&title_color=A67C52&icon_color=A67C52)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-kumar824&layout=compact&hide_border=false&bg_color=FFF8E7&text_color=3E3E3E&title_color=A67C52)
-
----
-## 🎯 Goals
-- Learn more advanced **Python** and **Flask** concepts.  
-- Build full-stack web applications.  
-- Contribute to **open-source projects**.  
-- Improve my **UI/UX and graphic design skills**.  
-
----
-
-## 📫 Contact Me
-Feel free to reach out via email or connect with me on LinkedIn for collaboration or mentorship.  
+```typescript
+const keshavKumar = {
+  title: "CS Student",
+  stack: ["C", "Python", "Java", "Flask", "HTML5", "CSS3", "JavaScript"],
+  launchedProjects: [
+    "szabist-mart-grocery-store",
+    "JAVA-OOP-BANKING-SYSTEM"
+  ],
+  certifications: [],
+  status: "Building programming fundamentals through daily practice 🌱",
+  openTo: ["Internships", "Junior Developer Roles", "Collaboration"]
+};
+```
 
 ---
 
-> "Strive for progress, not perfection." 💻✨
+### 🚀 Featured Projects
+
+#### 🛒 Szabist Mart — Grocery Store Web App
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=keshav-kumar824&repo=szabist-mart-grocery-store&theme=nord&border_color=14b8a6&text_color=e6e6e6&title_color=14b8a6" alt="szabist-mart-grocery-store"/>
+
+Modern online grocery store with product browsing, search, and admin stock management. Built as part of ITC Fall 2025.
+
+| Layer | Technology |
+|---|---|
+| Backend | Flask (Python) |
+| Frontend | HTML, CSS |
+| Domain | E-commerce / Inventory |
+
+🔗 [Code](https://github.com/keshav-kumar824/szabist-mart-grocery-store)
+
+#### 🏦 Java OOP Banking System
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=keshav-kumar824&repo=JAVA-OOP-BANKING-SYSTEM&theme=nord&border_color=14b8a6&text_color=e6e6e6&title_color=14b8a6" alt="JAVA-OOP-BANKING-SYSTEM"/>
+
+A banking system application demonstrating core Object-Oriented Programming principles in Java.
+
+| Layer | Technology |
+|---|---|
+| Language | Java |
+| Paradigm | Object-Oriented Programming |
+| Domain | Financial / Banking Logic |
+
+🔗 [Code](https://github.com/keshav-kumar824/JAVA-OOP-BANKING-SYSTEM)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Skills](https://skillicons.dev/icons?i=c,python,java,js)
+
+**Frontend**
+
+![Skills](https://skillicons.dev/icons?i=html,css)
+
+**Backend / Infra**
+
+![Skills](https://skillicons.dev/icons?i=flask)
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=keshav-kumar824&show_icons=true&theme=nord&border_color=14b8a6&bg_color=0d1117&text_color=e6e6e6&title_color=14b8a6&icon_color=14b8a6" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-kumar824&layout=compact&theme=nord&border_color=14b8a6&bg_color=0d1117&text_color=e6e6e6&title_color=14b8a6" alt="Top Languages" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=keshav-kumar824&theme=nord&border=14b8a6&background=0d1117&stroke=14b8a6&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6" alt="GitHub Streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=keshav-kumar824&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keshav-kumar824&theme=react-dark&hide_border=true&color=14b8a6&line=14b8a6&point=ffffff&area=true&area_color=14b8a6" alt="Contribution Graph"/>
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-14b8a6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-kumar-1671093a3/)
+[![Email](https://img.shields.io/badge/Email-14b8a6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavlund62@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-14b8a6?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Kashav)
+[![Instagram](https://img.shields.io/badge/Instagram-14b8a6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kashav_lund54)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=120&section=footer" width="100%"/>
