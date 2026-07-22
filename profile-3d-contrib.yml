@@ -1,0 +1,53 @@
+# ==============================================================================
+# WORKFLOW: Isometric Contribution City
+# ------------------------------------------------------------------------------
+# Purpose: generates the animated isometric "contribution city" SVGs referenced
+#          in README.md under "Contribution Animation", then commits them back
+#          into the repo so GitHub can serve them as static files.
+#
+# Engine:  yoshi389111/github-profile-3d-contrib (open source GitHub Action).
+#          It reads your public contribution calendar and renders it as an
+#          isometric city where each building's height = that day's commits.
+#
+# Trigger: runs once a day automatically, plus whenever you push to main,
+#          plus a manual "Run workflow" button in the Actions tab.
+#
+# Output:  ./profile-3d-contrib/profile-green.svg       (light mode)
+#          ./profile-3d-contrib/profile-night-green.svg (dark mode)
+#          These paths must match the <picture> element in README.md.
+# ==============================================================================
+
+name: Generate Isometric Contribution City
+
+on:
+  schedule:
+    - cron: "0 0 * * *"      # once a day, midnight UTC
+  workflow_dispatch: {}       # manual trigger from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          # GITHUB_TOKEN is provided automatically by Actions — no secret
+          # needs to be created manually for this step.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit updated animation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib
+          git diff --staged --quiet || git commit -m "chore: update isometric contribution city"
+          git push
