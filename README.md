@@ -31,7 +31,7 @@
 <tr>
 
 <td width="32%" valign="middle" align="center">
-<img src="https://raw.githubusercontent.com/keshav-kumar824/keshav-kumar824/main/file_0000000036008208b777c97e76772221.png" width="100%" alt="Keshav Kumar" />
+<img src="https://raw.githubusercontent.com/keshav-kumar824/keshav-kumar824/main/file_0000000036008208b777c97e76772221.png" width="100% " alt="Keshav Kumar" />
 </td>
 
 <td width="68%" valign="middle">
@@ -56,7 +56,7 @@ work** while I build up my project portfolio.
 <div align="center">
 
 <!-- Animated typing effect — single accent color, kept subtle -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=560&lines=Java+%7C+Python+%7C+Flask;Learning+Data+Structures+%26+Algorithms;Open+to+Internships+%26+Freelance+Work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=560&lines=Java+%7C+Python+%7C+C;Learning+Data+Structures+%26+Algorithms;Open+to+Internships+%26+Freelance+Work" alt="Typing SVG" />
 
 <br/>
 
